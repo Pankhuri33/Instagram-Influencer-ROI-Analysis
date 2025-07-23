@@ -81,9 +81,3 @@ This project simulates a real-world data analytics scenario where a beauty brand
 
 ---
 
-## 🛠 How to Run
-
-```bash
-pip install pandas matplotlib seaborn numpy
-python influencer_analysis.py
-
