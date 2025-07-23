@@ -45,7 +45,7 @@ This project simulates a real-world data analytics scenario where a beauty brand
 ### 2. 📈 Engagement Rate vs Campaign Cost  
 > Is high engagement always expensive?
 
-![Engagement vs Cost](engagement_vs_cost(1).png)
+![Engagement vs Cost](https://github.com/Pankhuri33/Instagram-Influencer-ROI-Analysis/blob/main/engagement_vs_cost%20(1).png?raw=true)
 
 ---
 
