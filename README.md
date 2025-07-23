@@ -65,8 +65,8 @@ This project simulates a real-world data analytics scenario where a beauty brand
 
 ## 💡 Key Insights
 
-- **Top Performer:** `@influencer_27` with ROI of **2.35** (₹2.35 earned per ₹1 spent)
-- **Lowest CPM:** `@influencer_42` with CPM of just **₹124.85**
+- **Top Performer:** `@influencer_57` with ROI of **0.97** 
+- **Lowest CPM:** `@influencer_81` with CPM of just **11.96**
 - **Engagement ≠ Cost:** High engagement was observed even in cost-effective influencers
 - **Micro-influencers** (under 100K followers) had the **highest average ROI**, indicating **stronger niche influence** and better campaign returns
 
@@ -77,7 +77,5 @@ This project simulates a real-world data analytics scenario where a beauty brand
 - **Python** – Core data analysis
 - **Pandas, NumPy** – Data wrangling
 - **Matplotlib, Seaborn** – Visual storytelling
-- *(Optional: Extendable to Streamlit or Power BI)*
 
----
 
