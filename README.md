@@ -38,7 +38,7 @@ This project simulates a real-world data analytics scenario where a beauty brand
 ### 1. 🔝 Top 10 Influencers by ROI
 > Who delivered the best bang for the buck?
 
-![ROI Chart](top10_roi(1).png)
+![ROI Chart](https://github.com/Pankhuri33/Instagram-Influencer-ROI-Analysis/blob/main/top10_roi%20(1).png?raw=true)
 
 ---
 
