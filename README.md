@@ -38,14 +38,14 @@ This project simulates a real-world data analytics scenario where a beauty brand
 ### 1. 🔝 Top 10 Influencers by ROI
 > Who delivered the best bang for the buck?
 
-![ROI Chart](top10_roi.png)
+![ROI Chart](top10_roi(1).png)
 
 ---
 
 ### 2. 📈 Engagement Rate vs Campaign Cost  
 > Is high engagement always expensive?
 
-![Engagement vs Cost](engagement_vs_cost.png)
+![Engagement vs Cost](engagement_vs_cost(1).png)
 
 ---
 
